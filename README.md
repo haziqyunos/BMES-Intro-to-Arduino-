@@ -11,7 +11,7 @@ This workshop is based on ARDUINO IDE 1.8.5, ARDUINO UNO R3 Board and assumes ze
 ### Workshop Details:
 
 **When?**: Satauday, 06 April 2019. 9:00 AM - 12:00 PM, 2:30 PM - 5:30 PM </br>
-**Where?**: TR +27, The Hive, Nanyang Technological University</br>
+**Where?**: Maker's Community Lab @ N1.2-B3-01, Nanyang Technological University</br>
 **Who?**: NTU Biomedical Engineering Society
 
 <hr>
